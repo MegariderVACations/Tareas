@@ -1,18 +1,5 @@
 # Tareas
 Actividad 3
-Solucion de la actividad
-var numero = prompt ("Dame un numero de 1 al 12")
+Descripcion.
 
-alert(Number(numero))
-
-if (numero < 3 || numero == 12 ){
-  alert ("Es invierno")
-}else if(numero <6){
-  alert ("Es primavera")
-}else if (numero < 9){
-  alert ("Es verano")
-}else if (numero <=11){
-  alert ("es otoño")
-}else{
-  alert("Numero invalido")
-}
+Esta es la solucion de la actividad numero 2 la cual programe en jsbin en la que se puede ver que se practica los condicionales if else, muy ultil para entender la logica de programacion.
